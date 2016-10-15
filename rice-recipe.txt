@@ -1,0 +1,10 @@
+Ingredients:
+ - rice
+ - water
+ 
+Directions:
+ 1. Put however much rice you'd like to in a pot.
+ 2. Depending on how firm/soft you'd like the rice, put 1.5-2x as much water in the pot.
+ 	More water makes the rice softer.
+ 3. Heat the water and bring it to a boil.
+ 4. Lower the heat and cover the pot. Let it simmer for 15-20 minutes, or until all water is gone.
